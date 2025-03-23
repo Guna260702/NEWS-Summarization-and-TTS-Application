@@ -30,8 +30,8 @@ The application follows a client-server architecture:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/news-sentiment-analyzer.git
-cd news-sentiment-analyzer
+git clone https://github.com/Guna260702/NEWS-Summarization-and-TTS-Application.git
+cd NEWS Summarization and TTS Application
 ```
 
 2. Install dependencies:
